@@ -11,30 +11,21 @@
             "id": "0a1fa8609a2f4e18",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
+                "file": "January 2025.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          }
-        ]
-      },
-      {
-        "id": "033e1944791042c2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e7a66c0afe2a6f99",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-trello",
+              "title": "January 2025"
             }
           }
         ]
@@ -109,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "January 2025.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +110,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for January 2025"
             }
           },
           {
@@ -128,12 +119,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "January 2025.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from January 2025"
             }
           },
           {
@@ -155,10 +146,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "January 2025.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of January 2025"
             }
           },
           {
@@ -190,8 +181,9 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "7590b775a47d8e5d",
+  "active": "0a1fa8609a2f4e18",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Welcome.md",
+    "January 2025.md"
   ]
 }
