@@ -4,11 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "780fa93c08d68d85",
+        "id": "807443fc1036298b",
         "type": "tabs",
         "children": [
           {
-            "id": "0a1fa8609a2f4e18",
+            "id": "660f8678e4139a87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System/SystemSoftwares.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "SystemSoftwares"
+            }
+          },
+          {
+            "id": "7e91840aaed22f5a",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -28,7 +42,8 @@
               "title": "January 2025"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -47,7 +62,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -100,7 +116,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "January 2025.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +125,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for January 2025"
+              "title": "Backlinks"
             }
           },
           {
@@ -119,12 +134,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "January 2025.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from January 2025"
+              "title": "Outgoing links"
             }
           },
           {
@@ -145,11 +159,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "January 2025.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of January 2025"
+              "title": "Outline"
             }
           },
           {
@@ -161,13 +173,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "88ef54c35041d82a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 391.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,12 +200,27 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "omnisearch:Omnisearch": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0a1fa8609a2f4e18",
+  "active": "7e91840aaed22f5a",
   "lastOpenFiles": [
+    "System/SystemSoftwares.md",
+    "System/VNC Server - RDP.md",
+    "January 2025.md",
     "Welcome.md",
-    "January 2025.md"
+    "Excalidraw/Drawing 2025-01-29 00.04.44.excalidraw.md",
+    "System",
+    "Excalidraw",
+    "2025-01-27.md",
+    "2025-01-28.md",
+    "Tasks Plugin - Review and check your Statuses 2025-01-28 23-04-03.md",
+    "Tasks Plugin - Review and check your Statuses 2025-01-28 23-03-59.md",
+    "Tasks.md",
+    "Untitled Kanban.md",
+    "Untitled.canvas"
   ]
 }

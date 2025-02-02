@@ -1,4 +1,11 @@
 [
   "obsidian-git",
-  "obsidian-kanban"
+  "obsidian-kanban",
+  "calendar",
+  "obsidian-tasks-plugin",
+  "obsidian-icon-folder",
+  "omnisearch",
+  "templater-obsidian",
+  "obsidian-excalidraw-plugin",
+  "code-styler"
 ]

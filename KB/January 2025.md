@@ -7,12 +7,13 @@ kanban-plugin: board
 ## Backlog
 
 - [ ] Document TigerVNC on Alpine
-- [ ] Document TigerVNC on Manjaro
 - [ ] Setup Anki for Aadi
+- [ ] https://ntfy.sh/ ( Setup and Document )
 
 
 ## In-Process
 
+- [ ] Document TigerVNC on Manjaro
 
 
 ## Blocked
