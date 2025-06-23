@@ -4,46 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "807443fc1036298b",
+        "id": "23b4bbe13aa9f08b",
         "type": "tabs",
         "children": [
           {
-            "id": "660f8678e4139a87",
+            "id": "52b118cc51adb7ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System/SystemSoftwares.md",
-                "mode": "preview",
-                "source": true
+                "file": "System/Immich.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "SystemSoftwares"
+              "title": "Immich"
             }
           },
           {
-            "id": "7e91840aaed22f5a",
+            "id": "ec4a08b950aeebb7",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "January 2025.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "System/Immich.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "January 2025"
+              "icon": "lucide-file",
+              "title": "Immich"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "System/SystemSoftwares.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for SystemSoftwares"
             }
           },
           {
@@ -206,12 +199,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7e91840aaed22f5a",
+  "active": "52b118cc51adb7ef",
   "lastOpenFiles": [
+    "System/Tmux.md",
     "System/SystemSoftwares.md",
-    "System/VNC Server - RDP.md",
+    "System/Local AI.md",
+    "System/Immich.md",
+    "2025-02-09.md",
+    "2025-02-10.md",
     "January 2025.md",
+    "System/VNC Server - RDP.md",
     "Welcome.md",
+    "create a link.md",
+    "Linux Commands/Tmux.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Linux Commands/Disk",
+    "Linux Commands/Network",
+    "Linux Commands",
     "Excalidraw/Drawing 2025-01-29 00.04.44.excalidraw.md",
     "System",
     "Excalidraw",
@@ -220,7 +225,6 @@
     "Tasks Plugin - Review and check your Statuses 2025-01-28 23-04-03.md",
     "Tasks Plugin - Review and check your Statuses 2025-01-28 23-03-59.md",
     "Tasks.md",
-    "Untitled Kanban.md",
-    "Untitled.canvas"
+    "Untitled Kanban.md"
   ]
 }

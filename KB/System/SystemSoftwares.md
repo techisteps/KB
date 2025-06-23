@@ -6,9 +6,12 @@
 	1. Lazygit
 	2. Eza
 	3. Nvim
+	4. locate or plocate
+	5. fzf
+	6. tmux
 3. Backup Tools:
 	- Chunk Based:
-		1. Bork backup
+		1. Borg backup
 		2. Pika backup
 		3. restic
 		4. Kopia

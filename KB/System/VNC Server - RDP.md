@@ -9,6 +9,8 @@ sudo pacman -S tigervnc
 ## Setup password for VNC
 vncpasswd
 
+# Test@123
+
 ## Setup which user can use VNC and on which display server.
 ## below line needs to be added in file /etc/tigervnc/vncserver.users
 ## I am adding display 2 to be used by user "jai"
